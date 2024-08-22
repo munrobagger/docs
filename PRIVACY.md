@@ -33,6 +33,7 @@ Please note that the Application utilizes third-party services that have their o
 *   [Mapbox](https://www.mapbox.com/legal/privacy) (Web only)
 *   [Supabase](https://supabase.com/privacy) (Database & Authentication)
 *   [Resend](https://resend.com/legal/privacy-policy) (Authentication Emails)
+*   [Sentry](https://sentry.io/privacy) (Crash Reports, mobile only)
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
@@ -71,4 +72,5 @@ By using the Application, you are giving your consent to the Service Provider pr
 If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at hello@munrobagger.scot.
 
 * * *
-Effective as of 2024/08/06
+
+Effective as of 2024/08/22

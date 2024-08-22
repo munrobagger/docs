@@ -14,6 +14,7 @@ Please note that the Application utilizes third-party services that have their o
 *   [Mapbox](https://www.mapbox.com/legal/tos) (Web only)
 *   [Supabase](https://supabase.com/terms) (Database & Authentication)
 *   [Resend](https://resend.com/legal/terms-of-service) (Authentication Emails)
+*   [Sentry](https://sentry.io/terms) (Crash Reports, mobile only)
 
 Please be aware that the Service Provider does not assume responsibility for certain aspects. Some functions of the Application require an active internet connection, which can be Wi-Fi or provided by your mobile network provider. The Service Provider cannot be held responsible if the Application does not function at full capacity due to lack of access to Wi-Fi or if you have exhausted your data allowance.
 
@@ -34,4 +35,5 @@ The Service Provider may periodically update their Terms and Conditions. Therefo
 If you have any questions or suggestions about the Terms and Conditions, please do not hesitate to contact the Service Provider at hello@munrobagger.scot.
 
 * * *
-Effective as of 2024/08/06
+
+Effective as of 2024/08/22
