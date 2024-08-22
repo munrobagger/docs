@@ -36,4 +36,6 @@ If you have any questions or suggestions about the Terms and Conditions, please 
 
 * * *
 
-Effective as of 2024/08/22
+**History**
+
+[https://github.com/munrobagger/docs/commits/main/TERMS.md](https://github.com/munrobagger/docs/commits/main/TERMS.md)

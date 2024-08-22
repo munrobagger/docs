@@ -73,4 +73,6 @@ If you have any questions regarding privacy while using the Application, or have
 
 * * *
 
-Effective as of 2024/08/22
+**History**
+
+[https://github.com/munrobagger/docs/commits/main/PRIVACY.md](https://github.com/munrobagger/docs/commits/main/PRIVACY.md)
