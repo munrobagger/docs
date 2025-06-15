@@ -85,4 +85,4 @@ Happy bagging! 🏔️
 
 **History**
 
-[https://github.com/munrobagger/docs/commits/main/COMMUNITY_GUIDLINES.md](https://github.com/munrobagger/docs/commits/main/COMMUNITY_GUIDLINES.md)
+[https://github.com/munrobagger/docs/commits/main/COMMUNITY_GUIDELINES.md](https://github.com/munrobagger/docs/commits/main/COMMUNITY_GUIDELINES.md)
