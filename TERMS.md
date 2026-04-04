@@ -1,40 +1,81 @@
-**Terms & Conditions**
+**Terms of Use**
 
-These terms and conditions applies to the Munro Bagger app (hereby referred to as "Application") for mobile devices that was created by John Easton (hereby referred to as "Service Provider") as a Free service.
+These Terms of Use apply to the Munro Bagger mobile application (the "Application"), operated by John Easton ("Service Provider"). By downloading, accessing, or using the Application, you agree to these terms.
 
-Upon downloading or utilizing the Application, you are automatically agreeing to the following terms. It is strongly advised that you thoroughly read and understand these terms prior to using the Application. Unauthorized copying, modification of the Application, any part of the Application, or our trademarks is strictly prohibited. Any attempts to extract the source code of the Application, translate the Application into other languages, or create derivative versions are not permitted. All trademarks, copyrights, database rights, and other intellectual property rights related to the Application remain the property of the Service Provider.
+## 1. License and Acceptable Use
 
-The Service Provider is dedicated to ensuring that the Application is as beneficial and efficient as possible. As such, they reserve the right to modify the Application or charge for their services at any time and for any reason. The Service Provider assures you that any charges for the Application or its services will be clearly communicated to you.
+The Service Provider grants you a limited, non-exclusive, non-transferable, revocable license to use the Application for personal, non-commercial use.
 
-The Application stores and processes personal data that you have provided to the Service Provider in order to provide the Service. It is your responsibility to maintain the security of your phone and access to the Application. The Service Provider strongly advise against jailbreaking or rooting your phone, which involves removing software restrictions and limitations imposed by the official operating system of your device. Such actions could expose your phone to malware, viruses, malicious programs, compromise your phone's security features, and may result in the Application not functioning correctly or at all.
+You agree not to:
 
-Please note that the Application utilizes third-party services that have their own Terms and Conditions. Below are the links to the Terms and Conditions of the third-party service providers used by the Application:
+- copy, modify, reverse engineer, decompile, or create derivative works of the Application except where allowed by law;
+- misuse the Application, interfere with its operation, or attempt unauthorized access;
+- use the Application in a way that violates applicable law.
 
-*   [Google Play Services](https://policies.google.com/terms) (Android devices only)
-*   [Mapbox](https://www.mapbox.com/legal/tos) (Web only)
-*   [Supabase](https://supabase.com/terms) (Database & Authentication)
-*   [Resend](https://resend.com/legal/terms-of-service) (Authentication Emails)
-*   [Sentry](https://sentry.io/terms) (Crash Reports, mobile only)
+All trademarks, copyrights, database rights, and other intellectual property rights in the Application remain with the Service Provider.
 
-Please be aware that the Service Provider does not assume responsibility for certain aspects. Some functions of the Application require an active internet connection, which can be Wi-Fi or provided by your mobile network provider. The Service Provider cannot be held responsible if the Application does not function at full capacity due to lack of access to Wi-Fi or if you have exhausted your data allowance.
+## 2. Subscriptions and Billing
 
-If you are using the application outside of a Wi-Fi area, please be aware that your mobile network provider's agreement terms still apply. Consequently, you may incur charges from your mobile provider for data usage during the connection to the application, or other third-party charges. By using the application, you accept responsibility for any such charges, including roaming data charges if you use the application outside of your home territory (i.e., region or country) without disabling data roaming. If you are not the bill payer for the device on which you are using the application, they assume that you have obtained permission from the bill payer.
+Some features may require a paid auto-renewing subscription.
 
-Similarly, the Service Provider cannot always assume responsibility for your usage of the application. For instance, it is your responsibility to ensure that your device remains charged. If your device runs out of battery and you are unable to access the Service, the Service Provider cannot be held responsible.
+- Subscription options, prices, and billing periods are shown in the Application before purchase.
+- Payment is charged to your Apple App Store or Google Play account at confirmation of purchase.
+- Subscriptions renew automatically unless canceled at least 24 hours before the end of the current billing period.
+- Renewal charges are billed through your store account within 24 hours before the end of the current period.
+- You can manage and cancel subscriptions in your Apple App Store or Google Play account settings.
 
-In terms of the Service Provider's responsibility for your use of the application, it is important to note that while they strive to ensure that it is updated and accurate at all times, they do rely on third parties to provide information to them so that they can make it available to you. The Service Provider accepts no liability for any loss, direct or indirect, that you experience as a result of relying entirely on this functionality of the application.
+The Service Provider does not directly process or store your full payment card details in the Application.
 
-The Service Provider may wish to update the application at some point. The application is currently available as per the requirements for the operating system (and for any additional systems they decide to extend the availability of the application to) may change, and you will need to download the updates if you want to continue using the application. The Service Provider does not guarantee that it will always update the application so that it is relevant to you and/or compatible with the particular operating system version installed on your device. However, you agree to always accept updates to the application when offered to you. The Service Provider may also wish to cease providing the application and may terminate its use at any time without providing termination notice to you. Unless they inform you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must cease using the application, and (if necessary) delete it from your device.
+## 3. Trials, Price Changes, and Refunds
 
-**Changes to These Terms and Conditions**
+- If a free trial is offered, any unused portion may be forfeited when you purchase a subscription where permitted by store rules.
+- Subscription prices may change in the future. Any changes are handled through Apple App Store or Google Play processes.
+- Refund requests are handled by Apple or Google under their applicable policies.
 
-The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
+## 4. Service Availability
 
-**Contact Us**
+The Service Provider aims to keep the Application available and accurate but does not guarantee uninterrupted, error-free service. Features may change over time.
 
-If you have any questions or suggestions about the Terms and Conditions, please do not hesitate to contact the Service Provider at hello@munrobagger.scot.
+The Application may require internet access, and your mobile carrier or internet provider may charge fees (including roaming and data charges).
 
-* * *
+## 5. Account and Device Responsibilities
+
+You are responsible for maintaining the security of your device and any account credentials. The Service Provider recommends not jailbreaking or rooting your device, as this may reduce security and affect Application functionality.
+
+## 6. Third-Party Services
+
+The Application uses third-party services governed by their own terms:
+
+- [Apple Media Services Terms and Conditions](https://www.apple.com/legal/internet-services/itunes/) (iOS devices only)
+- [Google Play Terms of Service](https://play.google.com/intl/en_us/about/play-terms/) (Android devices only)
+- [Google Play Services](https://policies.google.com/terms) (Android devices only)
+- [RevenueCat](https://www.revenuecat.com/terms/) (Subscription management)
+- [Mapbox](https://www.mapbox.com/legal/tos) (Web only)
+- [Supabase](https://supabase.com/terms) (Database and Authentication)
+- [Resend](https://resend.com/legal/terms-of-service) (Authentication Emails)
+- [Sentry](https://sentry.io/terms) (Crash Reports, mobile only)
+
+## 7. Termination
+
+The Service Provider may suspend or terminate access to the Application if these terms are violated or if the Application is discontinued. You may stop using the Application at any time by uninstalling it.
+
+You can also delete your account directly in the Application at Settings -> Delete account. If you cannot access the Application, contact hello@munrobagger.scot for deletion support.
+
+## 8. Disclaimer and Liability
+
+The Application is provided on an "AS IS" and "AS AVAILABLE" basis to the extent permitted by law. To the extent permitted by law, the Service Provider disclaims warranties and is not liable for indirect, incidental, special, consequential, or punitive damages arising from use of the Application.
+
+Nothing in these terms limits rights that cannot be excluded under applicable law.
+
+## 9. Changes to These Terms
+
+The Service Provider may update these Terms of Use from time to time by posting an updated version on this page. Continued use of the Application after changes means you accept the updated terms.
+
+## 10. Contact
+
+If you have any questions about these Terms of Use, contact hello@munrobagger.scot.
+
+---
 
 **History**
 

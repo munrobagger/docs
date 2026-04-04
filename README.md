@@ -3,5 +3,5 @@
 Contains the following...
 
 - [Privacy Policy](./PRIVACY.md)
-- [Terms & Conditions](./TERMS.md)
+- [Terms of Use](./TERMS.md)
 - [Community Guidlelines](./COMMUNITY_GUIDELINES.md)

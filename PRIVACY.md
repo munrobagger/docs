@@ -1,77 +1,106 @@
 **Privacy Policy**
 
-This privacy policy is applicable to the Munro Bagger app (hereinafter referred to as "Application") for mobile devices, which was developed by John Easton (hereinafter referred to as "Service Provider") as a a Free service. This service is provided "AS IS".
+This Privacy Policy applies to the Munro Bagger mobile application (the "Application"), operated by John Easton ("Service Provider").
 
-**What information does the Application obtain and how is it used?**
-**User Provided Information**
+## Information We Collect
 
-The Application acquires the information you supply when you download and register the Application. Registration with the Service Provider is not mandatory. However, bear in mind that you might not be able to utilize some of the features offered by the Application unless you register with them.
+### Information you provide
 
-The Service Provider may also use the information you provided them to contact you from time to time to provide you with important information, required notices and marketing promotions.
+Depending on how you use the Application, you may provide information such as:
 
-**Automatically Collected Information**
+- account details used for sign-in and support;
+- messages sent to support;
+- optional profile or app preference information.
 
-In addition, the Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Application.
+### Automatically collected information
 
-**Does the Application collect precise real time location information of the device?**
+The Application may automatically collect technical and usage information, including:
 
-This Application does not gather precise information about the location of your mobile device.
+- device type and operating system;
+- app version and basic diagnostics;
+- IP address and general network information;
+- app interaction and feature usage data.
 
-This Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
+### Location information
 
-*   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
-*   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
-*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
+The Application collects location for in-app location features only when you explicitly grant location permission and use those features. The Service Provider does not collect precise real-time GPS location by default or in the background for general use. In limited cases, approximate location may be inferred from network or IP diagnostics to support reliability and security.
 
-**Do third parties see and/or have access to information obtained by the Application?**
+### Subscription and purchase information
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+If you buy a subscription, the Service Provider may receive and process subscription status information needed to provide premium features, such as:
 
-Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
+- product identifier (plan);
+- transaction or receipt identifiers;
+- subscription state (active, expired, canceled, trial, billing issue);
+- renewal and expiration timestamps;
+- anonymized app user identifier used for entitlement checks.
 
-*   [Google Play Services](https://www.google.com/policies/privacy/) (Android devices only)
-*   [Mapbox](https://www.mapbox.com/legal/privacy) (Web only)
-*   [Supabase](https://supabase.com/privacy) (Database & Authentication)
-*   [Resend](https://resend.com/legal/privacy-policy) (Authentication Emails)
-*   [Sentry](https://sentry.io/privacy) (Crash Reports, mobile only)
+## How We Use Information
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+The Service Provider uses information to:
 
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+- provide and operate the Application;
+- enable and maintain subscription access;
+- improve reliability, performance, and features;
+- communicate important service notices;
+- detect abuse, fraud, and security issues;
+- comply with legal obligations.
 
-**What are my opt-out rights?**
+## Payments and Billing Boundaries
 
-You can halt all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+Subscriptions in the mobile app are sold through Apple App Store and Google Play billing systems. The Service Provider does not directly collect or store your full payment card number in the Application.
 
-**Data Retention Policy, Managing Your Information**
+Subscription lifecycle and entitlement processing may be handled through RevenueCat as a subscription management provider.
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. The Service Provider will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you'd like the Service Provider to delete User Provided Data that you have provided via the Application, please contact them at hello@munrobagger.scot and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
+## Third-Party Services
 
-**Children**
+The Application uses third-party services that process data under their own privacy policies:
 
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+- [Apple Privacy](https://www.apple.com/legal/privacy/) (iOS devices only)
+- [Google Privacy Policy](https://policies.google.com/privacy) (Android devices only)
+- [Google Play Services](https://www.google.com/policies/privacy/) (Android devices only)
+- [RevenueCat](https://www.revenuecat.com/privacy/) (Subscription management)
+- [Mapbox](https://www.mapbox.com/legal/privacy) (Web only)
+- [Supabase](https://supabase.com/privacy) (Database and Authentication)
+- [Resend](https://resend.com/legal/privacy-policy) (Authentication Emails)
+- [Sentry](https://sentry.io/privacy) (Crash Reports, mobile only)
 
-The Application does not address anyone under the age of 13\. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (hello@munrobagger.scot) so that they will be able to take the necessary actions.
+## Sharing and Disclosure
 
-**Security**
+The Service Provider may share information with service providers that help operate the Application. The Service Provider may also disclose information:
 
-The Service Provider are concerned about safeguarding the confidentiality of your information. The Service Provider provide physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve their Application. Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
+- when required by law or legal process;
+- to protect rights, safety, and prevent fraud;
+- as part of a business transfer, where allowed by law.
 
-**Changes**
+## Data Retention
 
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+The Service Provider keeps personal information for as long as needed to provide the Application, fulfill subscription obligations, resolve disputes, and comply with legal requirements. Data may be retained longer in aggregated or de-identified form.
 
-**Your Consent**
+You can delete your account and associated personal data in the Application at Settings -> Delete account. If you cannot access the Application, you can request deletion by contacting hello@munrobagger.scot. Some data may need to be retained where required for legal, accounting, fraud prevention, or subscription record purposes.
 
-By using the Application, you are giving your consent to the Service Provider processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information.
+## Your Choices
 
-**Contact us**
+- You can stop all information collection by uninstalling the Application.
+- You can manage or cancel subscriptions in your Apple App Store or Google Play account settings.
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at hello@munrobagger.scot.
+## Children
 
-* * *
+The Application is not directed to children under 13, and the Service Provider does not knowingly collect personal information from children under 13. If you believe a child has provided personal data, contact hello@munrobagger.scot so appropriate action can be taken.
+
+## Security
+
+The Service Provider uses reasonable technical and organizational safeguards to protect data. No method of transmission or storage is completely secure.
+
+## Changes to This Policy
+
+This Privacy Policy may be updated from time to time. Updates are posted on this page, and continued use of the Application after updates means you accept the revised policy.
+
+## Contact Us
+
+If you have questions about this Privacy Policy, contact hello@munrobagger.scot.
+
+---
 
 **History**
 
